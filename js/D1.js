@@ -76,7 +76,7 @@ let name2 = "John";
 let uguaglianza = ("name1" === "name");
 console.log("uguale: " + uguaglianza );
 
+console.log( name1 === name2)
+ 
 
-
-
-
+console.log(name1 === name2.toLocaleLowerCase())
