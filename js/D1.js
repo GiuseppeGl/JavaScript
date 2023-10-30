@@ -63,6 +63,7 @@ console.log(Ifoa);
 let n4 = 4;
 let differenza = x - n4;
 console.log(differenza)
+console.log(n4 - x)
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -76,7 +77,9 @@ let name2 = "John";
 let uguaglianza = ("name1" === "name");
 console.log("uguale: " + uguaglianza );
 
-console.log( name1 === name2)
+console.log( name1 === name2);
  
 
-console.log(name1 === name2.toLocaleLowerCase())
+console.log(name1 === name2.toLocaleLowerCase());
+
+console.log(name2)
