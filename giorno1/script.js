@@ -1,0 +1,1 @@
+console.log("Sono nel file esterno della pagina")
