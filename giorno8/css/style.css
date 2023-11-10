@@ -1,3 +1,6 @@
+
+
+
 .cellaTabellona {
 
     background-color: aqua;
@@ -5,3 +8,15 @@
     border: 1px solid black;
 }
 
+#tabellone {
+
+    text-align: center;
+    border: 1px solid black;
+}
+
+div {
+
+    border: 1px solid black;
+    
+    width: 20px;
+}
