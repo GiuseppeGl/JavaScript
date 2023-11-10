@@ -1,0 +1,21 @@
+html {
+
+    background-color: #0E0B1D ;
+}
+
+h1, h3 {
+
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.color-epic {
+    color: #A9409F;
+}
+
+#calendar {
+    border: 1px solid #A9409F;
+}
